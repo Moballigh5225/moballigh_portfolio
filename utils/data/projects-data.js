@@ -43,4 +43,15 @@ export const projectsData = [
     demo: "",
     image: travel,
   },
+  {
+    id: 2,
+    name: "Ticketing App",
+    description:
+      "Proficient in developing a ticketing management application leveraging Next.js, MongoDB, and Tailwind CSS to facilitate seamless handling of software, hardware, and project-related queries. Demonstrated ability to create dynamic user interfaces, ensure robust data management, and deliver polished design for enhanced user experience. Experienced in streamlining requirement tracking, issue resolution, and fostering collaboration through intuitive solutions. Strong proficiency in full-stack development methodologies and commitment to delivering high-quality, user-centric software solutions",
+    tools: ["NextJS", "MongoDB", "javascript", "Tailwind CSS"],
+    role: "MERN Stack Developer",
+    code: "https://github.com/Moballigh5225/moballigh_portfolio/tree/main",
+    demo: "",
+    image: travel,
+  },
 ];
