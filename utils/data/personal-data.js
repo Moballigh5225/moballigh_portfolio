@@ -1,7 +1,7 @@
 export const personalData = {
   name: "MOBALLIGHUL ISLAM",
   profile: "/profile.jpg",
-  designation: "MERN STACK Developer",
+  designation: "Frontend Developer",
   description:
     "My Name is Moballighul Islam.I am a frontend developer With over 2.8 years of experience in web-based software development, I am proficient in JavaScript, TypeScript, and HTML, and have profound expertise in web development using React, Next.js, Redux, and CSS. I have a thorough understanding of Bitbucket, GitHub repository management, and Postman, and am experienced in Agile methodology, including sprint planning, scrum, and retrospective calls. My strong analytical, problem-solving, and organizational abilities further complement my technical skills.",
   email: "moballigh5225@gmail.com",
