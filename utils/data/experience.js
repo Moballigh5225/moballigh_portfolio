@@ -1,20 +1,20 @@
 export const experiences = [
   {
     id: 1,
-    title: "Frontend Web Developer",
-    company: "Pankhuri RP CUBE PVT LTD",
-    duration: "(Oct 2022 - Sept 2023)",
+    title: "Software Developer",
+    company: "EPROSIGN Technical Solutions Pvt Ltd ",
+    duration: "(Oct 2022 - Till Date) - 11 Months",
   },
   {
     id: 2,
-    title: "Junior Frontend Developer",
-    company: "INR GROUP",
-    duration: "(Jun 2022 - Sept 2022)",
+    title: "Frontend Developer",
+    company: "RP Cube Pvt Ltd-Pankhuri",
+    duration: "(Oct 2022 - June 2023)",
   },
   {
     id: 3,
-    title: "Frontend Developer",
-    company: "Suvidha Foundation.",
-    duration: "(March 2022 - April 2022)",
+    title: "Sofware Trainee",
+    company: "MAX IT Solutions Pvt Ltd",
+    duration: "(Aug 2021 - Sept 2022)",
   },
 ];
